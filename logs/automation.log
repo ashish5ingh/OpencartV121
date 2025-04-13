@@ -1,0 +1,55 @@
+21:12:00.813 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspace\OpencartV121\master.xml
+
+21:12:08.139 [main] INFO  testCases.TC002_LoginTest - ******  Starting TC002_LoginTest *******
+21:12:08.389 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount link
+21:12:09.749 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+21:12:10.334 [main] INFO  testCases.TC002_LoginTest - Entered valid Login credentials
+21:12:11.672 [main] INFO  testCases.TC002_LoginTest - Validating MyAccount displayed
+21:12:11.764 [main] INFO  testCases.TC002_LoginTest - ******  Finished TC002_LoginTest *******
+12:11:34.014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspace\OpencartV121\master.xml
+
+12:11:41.870 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:11:53.636 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:11:56.434 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:11:58.454 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:12:09.706 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+12:12:09.722 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:12:11.410 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+12:19:54.005 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspace\OpencartV121\master.xml
+
+12:20:01.411 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:20:15.389 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:20:17.499 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:20:19.658 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:20:30.951 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+12:20:30.965 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:20:33.643 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+12:23:54.159 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspace\OpencartV121\master.xml
+
+12:24:00.388 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:24:02.589 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+12:24:02.598 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:24:04.620 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:24:06.516 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:24:17.813 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+12:24:17.829 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+12:24:19.530 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+20:27:39.408 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspace\OpencartV121\grouping.xml
+
+20:27:45.650 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+20:27:45.800 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+20:27:46.745 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:27:46.749 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:27:48.444 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:27:48.485 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+20:27:53.189 [main] INFO  testCases.TC002_LoginTest - ******  Starting TC002_LoginTest *******
+20:27:53.501 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount link
+20:27:53.822 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+20:27:54.083 [main] INFO  testCases.TC002_LoginTest - Entered valid Login credentials
+20:27:54.725 [main] INFO  testCases.TC002_LoginTest - Validating MyAccount displayed
+20:27:54.783 [main] INFO  testCases.TC002_LoginTest - ******  Finished TC002_LoginTest *******
